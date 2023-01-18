@@ -5,3 +5,5 @@ jupyterlab_github
 jupyterlab_code_formatter
 black
 plotly==4.1.0
+pandas
+numpy
